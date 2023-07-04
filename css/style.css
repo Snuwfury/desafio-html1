@@ -13,7 +13,7 @@ margin-left: 7em;
 
 h1 {
     font-family: 'MuseoModerno', cursive;
-    font-size: 88pt;
+    font-size: 117px;
     font-weight: bold;
     color: #0a2ff1;
     margin-bottom: 0;
@@ -21,7 +21,7 @@ h1 {
 h2 {
     font-family: 'Asap', sans-serif;
     font-weight: normal;
-    font-size: 39pt;
+    font-size: 52px;
     color: #0a2ff1;
     margin-top: 0;
     line-height: 0em;
@@ -38,7 +38,7 @@ margin-bottom: 7em;
 p {
     font-family: 'Asap', sans-serif;
     font-weight: normal, bold;
-    font-size: 25pt;
+    font-size: 33px;
     color: #04146c;
     width:100vh;
 }
@@ -46,13 +46,13 @@ p {
 h3 {
     font-family: 'MuseoModerno', cursive;
     font-weight: bold;
-    font-size: 36pt;
+    font-size: 48px;
     color: #0a2ff1;
 }
 h4 {
     font-family: 'MuseoModerno', cursive;
     font-weight: bold;
-    font-size: 149pt;
+    font-size: 198px;
     color: #8a9af1;
     margin: 0;
 }
@@ -61,7 +61,7 @@ li {
     display: list-item,block;
     font-family: 'Asap', sans-serif;
     font-weight: bold;
-    font-size: 25pt;
+    font-size: 33px;
     color: #04146c;
     margin-bottom: 1em;
 }
